@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Disney's 100th Anniversary: how the Walt Disney Company took over the world",
+    "description": "A visual history of how Disney grew from Mickey Mouse to a cultural giant",
+    "url": "https://www.bbc.co.uk/news/extra/NUgROc189X/disney-100-years",
+    "urlToImage": "https://news.files.bbci.co.uk/include/extra/shorthand/assets/news/NUgROc189X/assets/jSc9e9U5My/disney_cover-2560x1440.jpg",
+    "publishedAt": "2023-10-14T23:37:16.8022554Z",
+    "content": "Disney staff and studios were drafted into army use during the Second World War, leading to a string of now-controversial animations, live-action movies and propaganda films, some of which featured r… [+2243 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Strike on civilian convoy fleeing Gaza: What we know from verified video",
+    "description": "Women and children were killed in Friday's strike on vehicles that were heading away from northern Gaza.",
+    "url": "http://www.bbc.co.uk/news/world-middle-east-67114281",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/279F/production/_131434101_p0glk6nc.jpg",
+    "publishedAt": "2023-10-14T23:22:15.0140632Z",
+    "content": "Media caption, Deadly strike on convoy fleeing northern Gaza\r\nWarning: This article contains details that some may find distressing\r\nReports first emerged on Friday evening of a strike on a convoy of… [+4378 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Pro-Palestinian march draws thousands in London with protests across UK",
+    "description": "Police warn that anyone showing support for Hamas, a proscribed terrorist group, could face arrest.",
+    "url": "http://www.bbc.co.uk/news/uk-67110119",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16CE5/production/_131431439_d66598256785610a3b9ce45eee88fc1335deac680_557_5424_30511000x563.jpg",
+    "publishedAt": "2023-10-14T15:07:21.4736169Z",
+    "content": "Pro-Palestinian protests are taking place across the UK, including in London and Manchester.\r\nIn London several thousand people marched from the BBC's New Broadcasting House to Downing Street. More t… [+3560 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "The Voice: Australians vote No in historic referendum",
+    "description": "The country has overwhelmingly voted No to a proposal aimed at elevating First Nations voices.",
+    "url": "http://www.bbc.co.uk/news/world-australia-67110193",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/980B/production/_131432983_gettyimages-1735100449.jpg",
+    "publishedAt": "2023-10-14T13:07:16.9269071Z",
+    "content": "Australia has decisively rejected a landmark referendum to recognise Indigenous people in its constitution.\r\nThe proposal - known as the Voice - also sought to establish a First Nations body to advis… [+6117 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "New Zealand election: National party's Chris Luxon wins",
+    "description": "New Zealand election won by centre-right opposition as Labour PM Chris Hipkins concedes",
+    "url": "http://www.bbc.co.uk/news/world-asia-67110387",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+    "publishedAt": "2023-10-14T10:07:19.4978628Z",
+    "content": "Centre-right opposition leader Christopher Luxon has won the 2023 New Zealand election. \r\nLabour prime minister Chris Hipkins phoned the National party leader to concede defeat on Saturday night.\r\nHe… [+639 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Man pleads guilty to stealing Wizard of Oz ruby slippers",
+    "description": "Terry Martin thought the rubies in the slippers were real gems, but they were in fact made of glass.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67101888",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8963/production/_131417153_gettyimages-1142742987.jpg",
+    "publishedAt": "2023-10-14T07:22:18.6951828Z",
+    "content": "A US man has pleaded guilty to a museum heist in which he stole a pair of ruby red slippers worn by Judy Garland's character Dorothy in The Wizard of Oz.\r\nTerry Jon Martin believed the rubies were re… [+2253 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "BBC show is a 'lifeline' for Afghan girls, UN says",
+    "description": "Girls barred from the classroom by the Taliban government are using a BBC programme to learn in secret.",
+    "url": "http://www.bbc.co.uk/news/world-asia-67017945",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D22D/production/_131350835_a718ae62-c94c-4a36-b656-d4ada5f8ca5d.jpg",
+    "publishedAt": "2023-10-14T02:52:15.0384328Z",
+    "content": "A BBC programme for children barred from schools in Afghanistan has been described as a \"learning lifeline\" by the United Nations.\r\nThe show is being used in secret school lessons, the BBC has learne… [+4745 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "New Hampshire student admits threatening Republican congressman Matt Gaetz",
+    "description": "Allan Poller, 24, called Matt Gaetz after becoming \"emotional and intoxicated\" while scrolling TikTok.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67103348",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13D59/production/_131414218_gettyimages-1719207016.jpg",
+    "publishedAt": "2023-10-14T02:52:14.7884972Z",
+    "content": "A US college student has pleaded guilty to threatening to kill Republican congressman Matt Gaetz. \r\nAllan Poller, 24, admitted he left an expletive-laden voicemail for the lawmaker on 29 March. \r\nPol… [+1972 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Trump-backed Jim Jordan chosen as Speaker nominee",
+    "description": "It is still unclear whether Jim Jordan has enough support to win an overall majority in the House.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67097300",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0C12/production/_131409030_2bc53f0bb7da6f6a7150f49198f26cf736ae50080_0_2678_20251000x756.jpg",
+    "publishedAt": "2023-10-13T20:22:16.4615693Z",
+    "content": "Conservative firebrand Jim Jordan has been chosen as Republican nominee to become Speaker of the House. \r\nRepublican members of congress withdrew to hold a secret ballot on Friday afternoon at Capito… [+2685 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Annular Solar eclipse 2023: Ring of fire to sweep Americas on Saturday",
+    "description": "An annular solar eclipse will cross North, Central, and South America on Saturday.",
+    "url": "http://www.bbc.co.uk/news/science-environment-66938670",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0C18/production/_131369030_87d8d37a-b927-45f1-a3bc-f381f00c3a5e.jpg",
+    "publishedAt": "2023-10-13T17:07:24.0871284Z",
+    "content": "Stargazers and astronomers alike will be treated to a spectacular celestial event this Saturday - an annular solar eclipse.\r\nThis cosmic phenomenon will be visible in parts of the US, Mexico, and in … [+2681 chars]"
+    }
+    ]
+    }
