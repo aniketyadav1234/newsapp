@@ -69,7 +69,7 @@ export default class News extends Component {
   fetchMoreData = async () => {
     this.setState({ page: this.state.page + 1 });
     const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=ffa25119d84a4a53b2ceef2a54c07837&page=${this.state.page}&pageSize=${this.props.pageSize}`;
-
+    // Fetch news from API
     axios.get(url).then((data) => {
       const parseData = data.data;
       this.setState({
